@@ -1,10 +1,10 @@
-package guiribei.translator;
+package com.guiribei.buildings;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TranslatorApplicationTests {
+class BuildingsApplicationTests {
 
 	@Test
 	void contextLoads() {

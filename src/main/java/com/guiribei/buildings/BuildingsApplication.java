@@ -1,13 +1,13 @@
-package guiribei.translator;
+package com.guiribei.buildings;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TranslatorApplication {
+public class BuildingsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TranslatorApplication.class, args);
+		SpringApplication.run(BuildingsApplication.class, args);
 	}
 
 }
